@@ -1,4 +1,4 @@
-# var-and-lstm-for-multivariate-time-series-multistep-forecasting
+# var-rnn-lstm-for-multivariate-time-series-multistep-forecasting
 - Visualize features
 - Test and estimate a VAR model for prediction
 - Generate subsequences from a sequence of historical data to be converted into as supervised learning problem
